@@ -5,7 +5,7 @@
         <description></description>
         <author url="https://ghostfiregaming.com/product/grim-hollow-the-players-guide-pdf/?srsltid=AfmBOoo7yC7EWa4rsJExaTyoaXlpyLZrFA922H1BMAU1NKgIN3sgdOMP">GhostFire gaming</author>
         <update version="0.1.9">
-            <file name="race-wechselkind.xml" url="https://raw.githubusercontent.com/RusAlex91/auroraGrimHollow/master/core/grim-hollow/races/race-wechselkind.xml" />
+            <file name="race-wechselkind.xml" url="https://raw.githubusercontent.com/RusAlex91/auroraGrimHollow/master/core/races/race-wechselkind.xml" />
         </update>
     </info>
 
